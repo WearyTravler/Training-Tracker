@@ -1,12 +1,12 @@
 # September 2025 Tracker
 
 ## Legend
-- 🟩 **Green** – HackTheBox  
-- 🟥 **Red** – TryHackMe  
-- ⬛ **Black** – VulnLab  
+- 🟩 **Green**  – HackTheBox  
+- 🟥 **Red**    – TryHackMe  
+- ⬛ **Black**  – VulnLab  
 - 🟧 **Orange** – LeetCode Challenge Complete  
-- 🟦 **Blue** – PentesterLab  
-- 💖 **Pink** – CTF Challenge  
+- 🟦 **Blue**   – PentesterLab  
+- 💖 **Pink**   – CTF Competition participation or challenge  
 
 ---
 
