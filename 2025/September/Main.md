@@ -7,7 +7,7 @@
 - 🟧 **Orange**      – LeetCode Challenge Complete  
 - 🟦 **Blue**        – PentesterLab  
 - 💖 **Pink**        – CTF Competition participation or challenge
-- 🖩  **Calculator ** – Math for Comp Sci or Cybersecurity 
+- 🖩  **Calculator**  – Math for Comp Sci or Cybersecurity 
 
 ---
 
@@ -33,7 +33,7 @@
 - **Sept 19** –  
 - **Sept 20** –  
 - **Sept 21** –  
-- **Sept 22** –  🖩🖩🖩
+- **Sept 22** –  🖩🖩🖩🖩🖩🖩
 - **Sept 23** –  
 - **Sept 24** –  
 - **Sept 25** –  
