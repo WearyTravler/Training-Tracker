@@ -5,7 +5,8 @@
 - 🟥 **Red**         – TryHackMe  
 - ⬛ **Black**       – VulnLab  
 - 🟧 **Orange**      – LeetCode Challenge Complete  
-- 🟦 **Blue**        – PentesterLab  
+- 🟦 **Blue**        – PentesterLab
+- 🖥️ **Computer**    – Boot.Dev
 - 💖 **Pink**        – CTF Competition participation or challenge
 - 🖩  **Calculator**  – Math for Comp Sci or Cybersecurity 
 
