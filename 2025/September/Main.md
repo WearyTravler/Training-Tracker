@@ -8,9 +8,11 @@
 - 🟦 **Blue**        – PentesterLab
 - 🖥️ **Computer**    – Boot.Dev
 - 💖 **Pink**        – CTF Competition participation or challenge
-- 🖩  **Calculator**  – Math for Comp Sci or Cybersecurity 
+- 🖩  **Calculator**  – Math for Comp Sci or Cybersecurity
+- 💽 **CD**          – MetaCTF
+ 
 
----
+
 
 ## Daily Log
 - **Sept 1** –  
