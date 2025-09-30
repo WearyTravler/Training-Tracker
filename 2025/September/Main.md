@@ -1,15 +1,19 @@
 # September 2025 Tracker
 
 ## Legend
-- 🟩 **Green**       – HackTheBox  
-- 🟥 **Red**         – TryHackMe  
-- ⬛ **Black**       – VulnLab  
-- 🟧 **Orange**      – LeetCode Challenge Complete  
-- 🟦 **Blue**        – PentesterLab
-- 🖥️ **Computer**    – Boot.Dev
-- 💖 **Pink**        – CTF Competition participation or challenge
-- 🖩  **Calculator**  – Math for Comp Sci or Cybersecurity
-- 💽 **CD**          – MetaCTF
+- 🟩 **Green**         – HackTheBox/Academy 
+- 🟥 **Red**           – TryHackMe  
+- ⬛ **Black**         – VulnLab  
+- 🟧 **Orange**        – LeetCode Challenge Complete  
+- 🟦 **Blue**          – PentesterLab
+- 🖥️ **Computer**      – Boot.Dev
+- 💖 **Pink**          – CTF Competition participation or challenge
+- 🖩  **Calculator**    – Math for Comp Sci or Cybersecurity
+- 💽 **CD**            – MetaCTF
+- 🧑‍💻 **Programmer**    – Programming Course
+- 👾 **Virus**         – MalDevAcademy
+- 🗺️ **GuidedHacking** – GuidedHacking
+- 📚️ **Book**          – Read a Book regarding comp sci, cyber, other...      
  
 
 
@@ -43,5 +47,5 @@
 - **Sept 26** –  
 - **Sept 27** – 🖥️🖥️
 - **Sept 28** –  
-- **Sept 29** –  
+- **Sept 29** –  🧑‍💻👾🗺️💖🟥📚️
 - **Sept 30** –  
